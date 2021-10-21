@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    padding-bottom: 100px;
+}
+
+.navbar-brand img {
+    width: 100%;
+    height: 50px;
+}
+
+.nav-item {
+    padding: 0 10px;
+}
+
+.nav-link {
+    color: rgb(0, 0, 0);
+}
+
+.back-color {
+    background-color: #F0FFF0;
+    margin-bottom: 100px;
+}
+
+.image img {
+    width: 100%;
+    padding: 70px 0 40px 0px;
+}
+
+.nav-btn {
+    border: none;
+    border-radius: 33px;
+    background-color: #21B573;
+    padding: 5px 15px;
+    color: white;
+}
+
+.nav-btn:hover {
+    background-color: #52df9f;
+    color: white;
+}
+
+.hero-text span {
+    color: #21B573;
+}
+
+.hero-textp {
+    color: rgb(146, 146, 146);
+}
+
+.hero-text {
+    padding-top: 30px;
+}
+
+.cat2 img {
+    width: 80px;
+    height: 83px;
+    padding: 15px;
+}
+
+.cat-text {
+    text-align: center;
+}
+
+.cat2 {
+    padding: 15px;
+}
+
+.cat2:hover {
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.card {
+    border: none;
+}
+
+.card-footer {
+    border: none;
+    background-color: white;
+}
+
+.cf-text {
+    font-size: 14px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.card-footer img {
+    width: 24px;
+    height: 24px;
+}
+
+.card {
+    margin-top: 30px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.testimonial-text {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.testimonial-text p {
+    color: black;
+}
+
+.footer {
+    background-color: rgb(46, 45, 45);
+    color: white;
+}
+
+footer {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.foot {
+    margin-top: 40px;
+}
+
+.footerp {
+    font-size: 13px;
+    margin-top: 100px;
+}
